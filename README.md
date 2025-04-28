@@ -2,7 +2,7 @@
 ## Project Title: HR Attrition Analysis for Workforce Insights and Retention Strategy
 ## Objective:
 To analyze employee attrition patterns, identify high-risk segments, and provide actionable insights to help HR reduce turnover and improve employee satisfaction.
-![Alt Text](powerbi_HR_dashboard.png)
+![Alt Text](images/powerbi_HR_dashboard.png)
 
 ## Data Source:
 Internal HR dataset containing employee demographics, education, job roles, departments, and attrition details.
